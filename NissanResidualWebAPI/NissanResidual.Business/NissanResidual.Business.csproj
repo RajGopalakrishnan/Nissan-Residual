@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nissan.Residual.Repository.Interfaces\Nissan.Residual.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\NissanResidual.Business.Interfaces\NissanResidual.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\NissanResidual.Entities\NissanResidual.Entities.csproj" />
+    <ProjectReference Include="..\NissanResidual.Repository\NissanResidual.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

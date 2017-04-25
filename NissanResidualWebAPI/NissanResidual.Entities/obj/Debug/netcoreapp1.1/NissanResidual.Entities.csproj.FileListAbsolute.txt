@@ -1,0 +1,6 @@
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\NissanResidual.Entities\bin\Debug\netcoreapp1.1\NissanResidual.Entities.deps.json
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\NissanResidual.Entities\bin\Debug\netcoreapp1.1\NissanResidual.Entities.dll
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\NissanResidual.Entities\bin\Debug\netcoreapp1.1\NissanResidual.Entities.pdb
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\NissanResidual.Entities\obj\Debug\netcoreapp1.1\NissanResidual.Entities.AssemblyInfo.cs
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\NissanResidual.Entities\obj\Debug\netcoreapp1.1\NissanResidual.Entities.dll
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\NissanResidual.Entities\obj\Debug\netcoreapp1.1\NissanResidual.Entities.pdb

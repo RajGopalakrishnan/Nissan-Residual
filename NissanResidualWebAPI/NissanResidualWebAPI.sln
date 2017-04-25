@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NissanResidual.Business", "NissanResidual.Business\NissanResidual.Business.csproj", "{D429A3FB-3D37-46E6-BB24-1098B4FA8BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NissanResidual.Business.Interfaces", "NissanResidual.Business.Interfaces\NissanResidual.Business.Interfaces.csproj", "{025A1FDF-E3BA-499D-A295-0C593FDF359F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NissanResidual.Entities", "NissanResidual.Entities\NissanResidual.Entities.csproj", "{6C6127A4-1867-476F-9E6C-8115BE41D77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nissan.Residual.Repository.Interfaces", "Nissan.Residual.Repository.Interfaces\Nissan.Residual.Repository.Interfaces.csproj", "{D2C0CF06-547B-4A1E-ABCD-89CA39DBD5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NissanResidual.Repository", "NissanResidual.Repository\NissanResidual.Repository.csproj", "{140934CA-E2C7-4310-A998-756B02AC32AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NissanResidual.WebAPI", "NissanResidual.WebAPI\NissanResidual.WebAPI.csproj", "{337AD8D8-C917-4752-A063-84F619B7D85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D429A3FB-3D37-46E6-BB24-1098B4FA8BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D429A3FB-3D37-46E6-BB24-1098B4FA8BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D429A3FB-3D37-46E6-BB24-1098B4FA8BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D429A3FB-3D37-46E6-BB24-1098B4FA8BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025A1FDF-E3BA-499D-A295-0C593FDF359F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025A1FDF-E3BA-499D-A295-0C593FDF359F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025A1FDF-E3BA-499D-A295-0C593FDF359F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025A1FDF-E3BA-499D-A295-0C593FDF359F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6127A4-1867-476F-9E6C-8115BE41D77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6127A4-1867-476F-9E6C-8115BE41D77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6127A4-1867-476F-9E6C-8115BE41D77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6127A4-1867-476F-9E6C-8115BE41D77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C0CF06-547B-4A1E-ABCD-89CA39DBD5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C0CF06-547B-4A1E-ABCD-89CA39DBD5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C0CF06-547B-4A1E-ABCD-89CA39DBD5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C0CF06-547B-4A1E-ABCD-89CA39DBD5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140934CA-E2C7-4310-A998-756B02AC32AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140934CA-E2C7-4310-A998-756B02AC32AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140934CA-E2C7-4310-A998-756B02AC32AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140934CA-E2C7-4310-A998-756B02AC32AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337AD8D8-C917-4752-A063-84F619B7D85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337AD8D8-C917-4752-A063-84F619B7D85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337AD8D8-C917-4752-A063-84F619B7D85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337AD8D8-C917-4752-A063-84F619B7D85A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

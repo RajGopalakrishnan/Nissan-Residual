@@ -1,0 +1,9 @@
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\bin\Debug\netcoreapp1.1\Nissan.Residual.Repository.Interfaces.deps.json
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\bin\Debug\netcoreapp1.1\Nissan.Residual.Repository.Interfaces.dll
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\bin\Debug\netcoreapp1.1\Nissan.Residual.Repository.Interfaces.pdb
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\bin\Debug\netcoreapp1.1\NissanResidual.Entities.dll
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\bin\Debug\netcoreapp1.1\NissanResidual.Entities.pdb
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\obj\Debug\netcoreapp1.1\Nissan.Residual.Repository.Interfaces.csprojResolveAssemblyReference.cache
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\obj\Debug\netcoreapp1.1\Nissan.Residual.Repository.Interfaces.AssemblyInfo.cs
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\obj\Debug\netcoreapp1.1\Nissan.Residual.Repository.Interfaces.dll
+E:\KBB\Source\GIT\vsip-vme-nissan-residual-webapp\NissanResidualWebAPI\Nissan.Residual.Repository.Interfaces\obj\Debug\netcoreapp1.1\Nissan.Residual.Repository.Interfaces.pdb
